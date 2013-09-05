@@ -81,7 +81,10 @@ And it should be used in that case ONLY. You shouldn't use it for production web
 ###Download :
 [Download important.js]()
 
-[Download minified (456o)](https://raw.github.com/LukyVj/important.js/master/js/important.min.js) [Download Developement (507o)](https://raw.github.com/LukyVj/important.js/master/js/important.js)  [Download with Jquery included (750o)]()
+[Download minified (456o)](https://raw.github.com/LukyVj/important.js/master/js/important.min.js) 
+[Download Developement (507o)](https://raw.github.com/LukyVj/important.js/master/js/important.js)  
+[Download with Jquery included (750o)](https://raw.github.com/LukyVj/important.js/master/js/jq_important.js)
+[Download with Jquery included (749o)](https://raw.github.com/LukyVj/important.js/master/js/jq_important.min.js)
 
 
 ####MORE INFORMATIONS ABOUT !IMORTANT:
