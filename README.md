@@ -1,6 +1,6 @@
 important.js
 ============
-[official Page](http://sandbox.lucasbonomi.com/important.js/)
+####[official Page](http://sandbox.lucasbonomi.com/important.js/)
 
 Make your life easier for testing developement pages. 
 
@@ -75,12 +75,13 @@ And it should be used in that case ONLY. You shouldn't use it for production web
 
 ###Demos of important.js
 
-[Demo of important.js]()  [Demo of Jq_important.js]()
+*[Demo of important.js](http://codepen.io/LukyVj/pen/EArpf)  
+*[Demo of Jq_important.js](http://codepen.io/LukyVj/pen/aIpek)
 
 ###Download :
 [Download important.js]()
 
-[Download minified (456o)]() [Download Developement (507o)]()  [Download with Jquery included (750o)]()
+[Download minified (456o)](https://raw.github.com/LukyVj/important.js/master/js/important.min.js) [Download Developement (507o)](https://raw.github.com/LukyVj/important.js/master/js/important.js)  [Download with Jquery included (750o)]()
 
 
 ####MORE INFORMATIONS ABOUT !IMORTANT:
